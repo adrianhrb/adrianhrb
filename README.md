@@ -5,7 +5,7 @@
 
 
 ## **🙋‍♂️ About me:**
-- 🌴 From Macaronesia  
+- 🌴 Canary Islands
 - 🏎 I love racing, formula 1 in particular and Lewis Hamilton is my favourite driver 4⃣4⃣
 - 💻📚 Currently studying software development!
 - 🕹 Sometimes I play videogames
