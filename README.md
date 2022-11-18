@@ -1,6 +1,6 @@
 <div align="center"><h1><b>print ('Hello World 👋🌍')</b></h1></div>
 
-<div align="center"><img src="presen_card.png"></div>  
+<div align="center"><img src="card.png"></div>  
 
 
 
