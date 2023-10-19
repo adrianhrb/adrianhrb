@@ -19,9 +19,3 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a> 
 </p>
-
-## **📲 Contact me!:**
-- 🐤 This is my [twitter](<https://twitter.com/adrianhrbt>)
-- 📷 This is my [instagram](<https://www.instagram.com/adrihrb/>)  
-- 📩 This is my [mail](<adrian.herrera.br@gmail.com>)  
-- 💼 This is my [linkedin](<https://www.linkedin.com/in/adri%C3%A1n-herrera-brito-033699235/>)
