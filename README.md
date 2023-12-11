@@ -25,5 +25,5 @@ ADRIAN = {
 }
 ```  
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,sqlite,postgresql,css,html,js,django,bootstrap,sass"> </a> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,sqlite,postgresql,css,html,js,django,bootstrap,sass"></p>
 
