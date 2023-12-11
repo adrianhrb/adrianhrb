@@ -1,6 +1,6 @@
 <div align="center"><h1><b>Hey, I'm Adrián! 👋🌍</b></h1></div>
 
-<div align="center"><img width='90%' src="img/banner.png"></div>
+<div align="center"><img width='90%' src="img/portadar.jpg"></div>
 
 
 ## **🙋‍♂️ About me:**
