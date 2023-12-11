@@ -2,20 +2,28 @@
 
 <div align="center"><img width='90%' src="img/@ADRIANHRB.png"></div>
 
+<br>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## **🙋‍♂️ About me:**
-- 🌴 Canary Islands
-- 📚 Studying software development
-- 🌐 Web
-- 🏎 I love racing
-- 🕹 Sometimes I play videogames
-## **🛠 What I am learning:**
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/> </a> 
-  <a href="https://bootstrap-esdocu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a> 
-</p>
+## **👾 About me:**
+- 🌴 I'm from Canary Islands, Tenerife
+- 📚 Currently studying software development
+- 🌐 I am particularly interested in web development
+- 🏁 I like cars and rallies very much
+- 🎮 Sometimes I play videogames
+## **👨🏻‍💻 What technologies I'm learning:**
+```python
+ADRIAN = {
+  'pronouns': 'he', 'him',
+  'languages': ['python', 'javascript'],
+  'technologies': {
+    'backend': ['django'],
+    'frontend': ['HTML', 'Bootstrap', 'CSS', 'SASS'],
+    'databases': ['PostgreSQL', 'SQLite3', 'MySql']
+  },
+  'fun': "What did the boolean say to the integer? “You can’t handle the truth”"
+}
+```  
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,sqlite,postgresql,css,html,js,django,bootstrap,sass"> </a> </p>
+
