@@ -11,7 +11,7 @@
 - 📚 Currently studying software development
 - 🌐 I am particularly interested in web development
 - 🏁 I like cars and rallies very much
-- 🎮 Sometimes I play videogames
+- 🌕 Passionate about Space
 ## **👨🏻‍💻 What technologies I'm learning:**
 ```python
 ADRIAN = {
