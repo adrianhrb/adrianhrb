@@ -26,5 +26,5 @@ ADRIAN = {
 }
 ```  
 
-<p align="left"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,sqlite,postgresql,css,html,js,django,bootstrap,sass"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,js,django,css,html,bootstrap,sass,git,sqlite,postgresql"></p>
 
