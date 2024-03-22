@@ -1,30 +1,28 @@
-<div align="center"><h1><b>Hey, I'm Adrián! 👋🌍</b></h1></div>
+## Hey, I'm Adrián! 👋🌍
+I'm a Junior developer
+- Check out my [website](https://adrianhb.dev) if you want to know more about me ;)
+- I am more interested in backend development although I like to explore other areas.
 
-<div align="center"><img src="adrian.png"></div>
-
-<br>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+## **👨🏻‍💻 Skills:**
+```python
+ADRIAN = {
+  'pronouns': 'he', 'him',
+  'languages': ['python', 'javascript', 'typescript'],
+  'technologies': {
+    'backend': ['django', 'djangorestframework'],
+    'frontend': ['React', 'Bootstrap', 'SASS'],
+    'databases': ['PostgreSQL', 'SQLite3', 'MySql'],
+    'learning : ['Pytest', 'Postman', 'Docker'],
+    'others': ['Kanban', 'Scrum', 'Confluence', 'Jira']
+  },
+  'fun': "What did the boolean say to the integer? “You can’t handle the truth”"
+}
+```
 
 ## **👾 About me:**
 
 - 🌴 I'm from Canary Islands, Tenerife
-- 📚 Currently studying software development
-- 🌐 I am particularly interested in web development
 - 🏁 I like cars and rallies very much
 - 🌕 Passionate about Space
-## **👨🏻‍💻 What technologies I'm learning:**
-```python
-ADRIAN = {
-  'pronouns': 'he', 'him',
-  'languages': ['python', 'javascript'],
-  'technologies': {
-    'backend': ['django'],
-    'frontend': ['HTML', 'Bootstrap', 'CSS', 'SASS'],
-    'databases': ['PostgreSQL', 'SQLite3', 'MySql']
-  },
-  'fun': "What did the boolean say to the integer? “You can’t handle the truth”"
-}
-```  
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,js,django,css,html,bootstrap,sass,git,sqlite,postgresql"></p>
 
