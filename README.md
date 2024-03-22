@@ -12,7 +12,7 @@ ADRIAN = {
     'backend': ['django', 'djangorestframework'],
     'frontend': ['React', 'Bootstrap', 'SASS'],
     'databases': ['PostgreSQL', 'SQLite3', 'MySql'],
-    'learning : ['Pytest', 'Postman', 'Docker'],
+    'learning' : ['Pytest', 'Postman', 'Docker'],
     'others': ['Kanban', 'Scrum', 'Confluence', 'Jira']
   },
   'fun': "What did the boolean say to the integer? “You can’t handle the truth”"
